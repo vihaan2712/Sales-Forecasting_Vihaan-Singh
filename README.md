@@ -1,5 +1,7 @@
 # Sales Forecasting & Demand Intelligence System
 **Vihaan Singh — Internship Final Project — Submitted 13 July 2026**
+#Live Dashboard
+ **Streamlit App:** [Open the Live Sales Forecasting Dashboard](https://sales-forecastingvihaan-singh-a4gxfzvb6fyl59bjra9idx.streamlit.app/)
 
 ## What's in this folder
 
