@@ -1,0 +1,11 @@
+# Requirements for the Streamlit dashboard (app.py) - Task 7 deployment.
+# Kept intentionally lean (no Prophet/XGBoost) so Streamlit Community Cloud
+# builds fast and doesn't need Prophet's cmdstan compile step at deploy time.
+# For the full analysis notebook's environment, see requirements-notebook.txt
+streamlit==1.59.1
+pandas==3.0.2
+numpy==2.4.4
+statsmodels==0.14.6
+scikit-learn==1.8.0
+plotly==6.9.0
+pyarrow==25.0.0
